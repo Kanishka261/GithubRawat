@@ -1,2 +1,2 @@
 # GithubRawat
-GitHub assignment project
+This is a GitHub assignment project
